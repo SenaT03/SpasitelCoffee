@@ -235,10 +235,10 @@ a:focus {
   color: #3496d8;
 }
 
-/* Work */
+/* Work */       /* USE THISSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS */
 
 .tm-work-description {
-  max-width: 700px;
+  max-width: 900px;
   width: 100%;
   font-size: 0.9rem;
 }
